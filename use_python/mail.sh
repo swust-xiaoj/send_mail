@@ -1,0 +1,1 @@
+/usr/bin/python3 /home/xiaojie/work/send_mail/main.py

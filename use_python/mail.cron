@@ -1,0 +1,1 @@
+*/3 * * * * cd /home/xiaojie/work/send_mail/ && ./mail.sh > /home/xiaojie/work/send_mail/mail.log >2&1 &
